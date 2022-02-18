@@ -1,0 +1,20 @@
+
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C++ Express 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "shader_blur_fullscreen_seperateshaders", "shader_blur_fullscreen_seperateshaders\shader_blur_fullscreen_seperateshaders.vcxproj", "{7D417D45-F05D-4255-A75C-1AAAADF5DB07}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7D417D45-F05D-4255-A75C-1AAAADF5DB07}.Debug|Win32.ActiveCfg = Debug|Win32
+		{7D417D45-F05D-4255-A75C-1AAAADF5DB07}.Debug|Win32.Build.0 = Debug|Win32
+		{7D417D45-F05D-4255-A75C-1AAAADF5DB07}.Release|Win32.ActiveCfg = Release|Win32
+		{7D417D45-F05D-4255-A75C-1AAAADF5DB07}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
